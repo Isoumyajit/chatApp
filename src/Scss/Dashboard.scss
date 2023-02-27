@@ -1,0 +1,14 @@
+.container { 
+    width: 80%;
+    height: 80%;
+    padding: 0.5%;
+}
+.sidebar_container{
+    width: 40%;
+}
+.chat_container{ 
+    width: 60%;
+}
+.messages { 
+    height: calc(100% - 100px);
+}
