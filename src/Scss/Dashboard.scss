@@ -5,9 +5,11 @@
 }
 .sidebar_container{
     width: 40%;
+    height: auto;
 }
 .chat_container{ 
     width: 60%;
+    border-top-right-radius: 5rem !important;
 }
 .messages { 
     height: calc(100% - 100px);

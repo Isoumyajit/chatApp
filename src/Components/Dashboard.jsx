@@ -1,6 +1,4 @@
-import React, { useState } from "react";
-import { Register } from "./Register";
-import { LogIn } from "./LogIn";
+import React from "react";
 import { ChatContainer } from "./ChatContainer";
 import { Sidebar } from "./Sidebar";
 import "../Scss/Dashboard.scss";
